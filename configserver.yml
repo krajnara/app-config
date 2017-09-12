@@ -5,4 +5,4 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/103209/pivotal-training/app-config
+          uri: https://github.com/krajnara/app-config.git
